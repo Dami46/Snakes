@@ -1,0 +1,18 @@
+﻿  pch.cpp
+  Menu.cpp
+c:\users\dam19\desktop\projekt\java bird\java bird\menu.cpp(17): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+c:\users\dam19\desktop\projekt\java bird\java bird\menu.cpp(22): warning C4244: "argument": konwersja z "double" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  Wonsze.cpp
+c:\users\dam19\desktop\projekt\java bird\java bird\wonsze.cpp(19): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+c:\users\dam19\desktop\projekt\java bird\java bird\wonsze.cpp(178): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+c:\users\dam19\desktop\projekt\java bird\java bird\wonsze.cpp(184): warning C4244: "argument": konwersja z "int" do "float", możliwa utrata danych
+  Generowanie kodu...
+  Java Bird.vcxproj -> C:\Users\dam19\Desktop\Projekt\Java Bird\Debug\Java Bird.exe
